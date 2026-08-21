@@ -1,7 +1,6 @@
 # Linux CFS (Completely Fair Scheduler) Simulator
 
 A modular, production-grade Python simulation engine modeling the **Linux Completely Fair Scheduler (CFS)** and multi-CPU load balancer. Built to demonstrate OS kernel scheduling mechanics, priority weighting, virtual runtime convergence, and fairness metrics for systems engineering and kernel design interviews.
-
 ---
 
 ## 🌟 Key Features
