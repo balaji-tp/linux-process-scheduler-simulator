@@ -127,4 +127,4 @@ In Linux kernel 6.6 (October 2023), CFS was replaced after 16 years by **EEVDF**
   1. **Lag**: Difference between expected fair time allocation and actual time received ($Lag_i = V - vruntime_i$).
   2. **Eligibility**: A task is *eligible* to run only if its $Lag_i \ge 0$.
   3. **Virtual Deadline**: Each task requests a latency slice $q$; its deadline is $V_i = vruntime_i + \frac{q}{w_i}$. EEVDF selects the eligible task with the *earliest virtual deadline*.
-- **Future Extension**: Expanding this simulator to include an EEVDF mode comparing CFS vs EEVDF latency distributions for interactive workloads.
+  
