@@ -853,32 +853,6 @@ output/
 ├── vruntime_convergence.png
 ├── cpu_load_heatmap.png
 └── fairness_trend.png
-```
-
-These files can be committed to GitHub so that the visual results appear directly in this README.
-
----
-
-# 👨‍💻 Author
-
-## Balaji T P
-
-Electronics & Communication Engineering Student
-
-Interested in:
-
-* 💻 Software Development
-* 🐧 Linux & Operating Systems
-* ⚙️ Embedded Systems
-* ☕ Java
-* 🤖 AI & Machine Learning
-* 🌐 Full-Stack Development
-
-### Connect
-
-* GitHub: `https://github.com/YOUR-USERNAME`
-* LinkedIn: `https://linkedin.com/in/YOUR-PROFILE`
-
 ---
 
 # ⭐ Support
