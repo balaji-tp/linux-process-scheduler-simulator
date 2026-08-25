@@ -874,5 +874,3 @@ This project is intended for **educational and learning purposes**.
 **Simulate • Measure • Visualize • Understand**
 
 ⭐ Star the repository if you find it useful!
-
-</div>
