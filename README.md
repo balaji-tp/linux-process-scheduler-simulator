@@ -865,12 +865,3 @@ If this project helped you understand Linux process scheduling, consider giving 
 
 This project is intended for **educational and learning purposes**.
 
----
-
-<div align="center">
-
-### 🐧 Linux Process Scheduler Simulator
-
-**Simulate • Measure • Visualize • Understand**
-
-⭐ Star the repository if you find it useful!
